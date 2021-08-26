@@ -1,0 +1,40 @@
+{
+  "AD": {
+    "author": "Diya B",
+    "location": "Andorra la Vella, Andorra"
+  },
+  "AE": {
+    "author": "ZQ Lee",
+    "location": "Dubai, United Arab Emirates"
+  },
+  "AF": {
+    "author": "Mohammad Rahmani",
+    "location": "Paryan, Afghanistan"
+  },
+  "AG": {
+    "author": "Rick Jamison",
+    "location": "Antigua, Antigua and Barbuda"
+  },
+  "EC": {
+    "author": "Mauricio Muñoz",
+    "location": "Quito, Ecuador"
+  },
+  "IN": {
+    "author": "Paul Silvan",
+    "location": "Hyderabad, India"
+  },
+  "PK": {
+    "author": "Zain Raza",
+    "location": "Naran, Pakistan"
+  },
+  "MX": {
+    "author": "Marisol Benitez",
+    "location": "Oaxaca de Juárez, Oaxaca, Mexico"
+  },
+  "US": {
+    "author": "Jesse Callahan",
+    "location": "Yosemite Valley, United States"
+  }
+}
+
+

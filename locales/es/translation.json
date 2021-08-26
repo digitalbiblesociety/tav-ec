@@ -1,0 +1,116 @@
+{
+
+  "title": "Localice una Biblia",
+
+  "index": {
+	"stat_line": "Localice una Biblia proporciona hipervínculos a: {{bibles}} Versiones de la Biblia y {{resources}} Recursos Bíblicos de {{organizations}} Organizaciones.",
+	"question_looking_for_bible": "Do you know someone who speaks another language and may be looking for a Bible?",
+	"question_traveling": "Are you traveling abroad with plans to share Bibles and resources across regions?",
+	"question_missionary": "Do you support missionaries who serve among multi-language people groups?",
+	"question_outreach": "Are you seeking to share Bible related Audio or Video resources on your next outreach?"
+  },
+
+  "countries": {
+	"title": "Países",
+	"description": "Encuentre idiomas ordenados por los países del mundo donde se usan comúnmente.d",
+	"region": "Región",
+	"continents": {
+	  "eu": "Europa",
+	  "as": "Asia",
+	  "af": "África",
+	  "oc": "Oceanía",
+	  "na": "Norteamérica",
+	  "sa": "Sudamerica"
+	}
+  },
+
+  "languages": {
+	"title": "Idiomas",
+	"description": "Encuentra Biblias por los idiomas del mundo",
+	"status": {
+	  "title": "Estado",
+	  "null": "",
+	  "0": "Internacional",
+	  "1": "Nacional",
+	  "2": "Provincial",
+	  "3": "Más amplio",
+	  "4": "Educativo",
+	  "5": "Desarrollando",
+	  "6a": "Vigoroso",
+	  "6b": "Amenazado",
+	  "7": "Cambiando",
+	  "8a": "Moribundo",
+	  "8b": "Casi Extinto",
+	  "9": "Latente",
+	  "10": "Extinto"
+	},
+	"translations": {
+	  "ar": "Arábica",
+	  "zh": "Chino",
+	  "hi": "Hindi",
+	  "fr": "Francés",
+	  "en": "Inglés",
+	  "es": "Español",
+	  "ru": "Ruso",
+	  "pt": "Portugués",
+	  "ne": "Nepali"
+	}
+  },
+
+  "organizations": {
+	"title": "Fogonadura",
+	"descriptions": "Compañeros y amigos de encontrar una bible"
+  },
+
+  "about": {
+	"title": "Acerca de",
+	"description": "Acerca del proyecto Encuentra una Biblia y el proceso de archivar la Biblias"
+  },
+
+  "fields": {
+	"alphabet": "Alfabeto",
+	"date": "Fecha",
+	"in": "  en",
+	"vDescription": "Descripción vernácula",
+	"description": "Descripción",
+	"copyright": "Derechos de autor",
+	"language": "Idioma",
+	"donate": "Donar",
+	"website": "Sitio web",
+	"email": "Email",
+	"address": "Dirección",
+	"phone": "Teléfono"
+  },
+
+  "footer": {
+	"about_agencies": "Agencias",
+	"about_feedback": "Realimentación",
+	"about_overview": "Acerca de",
+	"about_privacy": "Política de privacidad",
+	"about_producers": "Productores",
+	"about_title": "Encontrar una biblia",
+	"about_volunteer": "Trabajar como voluntario",
+	"forum": {
+	  "facebook": "Foro de facebook",
+	  "members": "Miembros",
+	  "newsEvents": "Noticias y Eventos",
+	  "regional_forums": "Foros regionales",
+	  "scripture_engagement": "Compromiso",
+	  "title": "Foro de Agencias Bíblicas",
+	  "translationGroup": "Traducción Grupo"
+	},
+
+	"sources_blc": "BibleLeague Canada",
+	"sources_dbl": "Biblioteca Bíblica Digital",
+	"sources_dbp": "Plataforma Bíblica Digital",
+	"sources_dbs": "Sociedad Bíblica Digital",
+	"sources_eth": "Etnologo",
+	"sources_grn": "Red GR",
+	"sources_jfm": "Película de jesús",
+	"sources_sp": "Proyecto Joshua",
+	"sources_ss": "Fuente de Script",
+	"sources_title": "Fuente de datoss"
+  }
+
+
+}

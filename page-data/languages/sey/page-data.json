@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-jsx",
+    "path": "/languages/sey/",
+    "result": {"pageContext":{"language":{"iso":"sey","name":"Secoya","autonym":"Paikoka","country_id":"EC"},"bibles":[{"id":"SEYWBT","title":"Secoya New Testament","title_vernacular":"Maija'quë Huajë Ca Nëose'e","date":"2012","iso":"sey","language":"Secoya","countries":null,"links":37}],"resources":[],"films":[]}},
+    "staticQueryHashes": []}

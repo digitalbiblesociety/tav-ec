@@ -1,0 +1,76 @@
+{
+  "agencies_description": "Hundreds of agencies are contributing to the Find-A-Bible project in helping the world find resources in their language.",
+  "agencies_title": "Agencies of Find-A-Bible",
+  "breadcrumb_about": "About",
+  "breadcrumb_agencies": "Contributing Agencies",
+  "breadcrumb_faq": "Frequently Asked Questions",
+  "breadcrumb_feedback": "Feedback",
+  "breadcrumb_home": "Home",
+  "breadcrumb_members": "Members",
+  "breadcrumb_privacy": "Privacy",
+  "breadcrumb_volunteer": "Volunteering",
+
+  "index": {
+	"project": {
+		"title": "The Find-A-Bible Project",
+		"description": "Find-A-Bible is a collaborative project of the Forum of Bible Agencies International (FOBAI). Find-A-Bible is built to increase the Bible's accessibility and aims to facilitate access to God's Word in the languages of the world. Find-A-Bible is designed and maintained by the Digital Bible Society (DBS)."
+	},
+	"symposium": {
+		"title": "Find-A-Bible Symposium",
+		"description": "During annual gatherings of the International Bible Forum (FOBAI), friendly people meet to collaborate around Find-A-Bible. Perhaps you would like to join us? Contact us for details, or join us at an upcoming FOBAI annual meeting."
+	},
+	"need": {
+		"title": "We need your help!",
+		"description": "We really could use your help finding Bibles. If you are an archivist, a librarian, a search enthusiast, and IT techie, or a lover of God's Word, we invite you to join us in the search for world's Bibles. Our aim is to catalog every major edition of every Bible in every language in a way that those Bibles can be discovered, purchased or downloaded and shared."
+	},
+	"faqs": {
+		"title": "FAQs",
+		"description": "Why was Find-A-Bible created? Find-A-Bible was envisioned by the members of the Forum of Bible Agencies International(FOBAI) with the intent to simplify the discovery and securing of Bibles and Bible resources in every language. In no other place are the efforts of collaboration and cooperation amongst Bible Agencies so unified."
+	},
+	"resources": {
+		"title": "Adding Resources",
+		"description": "Know of a Bible that needs to be in this directory? We would sure like to hear about it. Does your organization have multi-language Bible resources that should be listed here? Let us know! Better yet, why not fill out this form and we'll do what we can to add it to Find-A-Bible."
+	},
+	"feedback": {
+		"title": "Feedback and Suggestions",
+		"description": "Broken links. 404s. Navigation to nowhere. Strange displays and OS madness. Pointing to ever-changing websites. God help us!\n\nLet us know when things don't work. Perhaps you have some ideas that may help pursue the dream of \"God's Word accessible in every language.\" We'd love to hear from you."
+	}
+  },
+
+  "privacy": {
+	"title": "Privacy",
+	"description": ""
+  },
+
+  "faq_title": "FAQs",
+  "faq_description": "",
+  "faq_what_is_fab_head": "What is Find-A-Bible?",
+  "faq_what_is_fab_body": "Find-A-Bible (FAB) is a web directory providing links to Bibles and biblical resources in the 6000+ languages of the world. The FAB directory primarily consists of content created by members of the Forum of Bible Agencies International (FOBAI) and is intended to help users discover and obtain Scriptures and biblical resources in the language and media of their choice for discipleship, evangelism, and church planting. The associated databases and delivery tools were created and are maintained by the Digital Bible Society (DBS). Find-A-Bible also features links to print Bibles, print-on-demand Bibles, digital Bibles, audio Bibles, visual Bibles and Bible resources – in multiple formats.",
+  "faq_why_fab_head": "Why was Find-A-Bible Created?",
+  "faq_why_fab_body": "The mission of Find-A-Bible is to ensure that the world’s Bibles and great biblical resources are easily found and shared. While it is possible to search for a great many Biblical resources online, the sheer quantity of available content is overwhelming. Consequently, FOBAI launched Find-A-Bible in 2006, and, in 2013, commissioned the Digital Bible Society to create and maintain a single location on the internet where people looking for Bible resources can identify and obtain them.",
+  "faq_how_fab_different_head": "What makes Find-A-Bible distinctive?",
+  "faq_how_fab_different_body": "Find-A-Bible is the single digital platform where the major Bible agencies of the world and their affiliates have agreed to collaborate together to ensure that all Bibles and biblical resources are easily discoverable – in every language. Find-A-Bible was built to be a convenient hub delivering fast, accurate, and relevant information with minimal user effort. Also, it serves as a reference point for Bible translation organizations seeking to discover what Bibles have or have not been published in a specific language.",
+  "faq_who_fab_head": "Who is FOBAI and its members?",
+  "faq_who_fab_body": "The Forum of Bible Agencies International (FOBAI) is an alliance of more than 25 leading international Bible agencies and mission organizations that span more than 120 countries, headquartered in five different nations and subscribing to the beliefs set down in the Lausanne Covenant. This alliance was founded upon a unified vision,: Working together to maximize the worldwide access and impact of God’s Word (www.forum-intl.net).",
+  "faq_who_owns_bibles_head": "Who owns Find-A-Bible content?",
+  "faq_who_owns_bibles_body": "The Bible-based resources available in the Find-A-Bible directory are the property of the individual members of FOBAI or the organizations they endorse. Although some material accessible through Find-A-Bible is freely available to the public, other resources are offered for sale from member websites. Find-A-Bible does not own any copyrights for any of the discoverable resources nor does it offer resources for sale.",
+  "faq_whose_work_head": "Whose work is reflected on the Find-A-Bible website?",
+  "faq_whose_work_body": "In April 2013, FOBAI commissioned the Digital Bible Society to design, build, and maintain the Find-A-Bible website. Find-A-Bible is a work in progress and will be updated regularly by the Digital Bible Society. The gathering of metadata reflected here is the work of many partnering organizations that make up FOBAI.",
+  "faq_how_support_head": "How can I support the work of Find-A-Bible?",
+  "faq_how_support_body": "We welcome your support in spreading the word that Find-A-Bible exists, informing us of Bible and Bible-based content that is not in our directory, suggesting improvements to the site, praying for the mission of FOBAI, and donating to the ongoing work of Find-A-Bible.",
+
+  "fab_head": "The Find-A-Bible Project",
+  "fab_body": "Find-A-Bible is a collaborative project of the Forum of Bible Agencies International (FOBAI). Find-A-Bible is built to increase the Bible's accessibility and aims to facilitate access to God's Word in the languages of the world. Find-A-Bible is designed and maintained by the Digital Bible Society (DBS). For over 20 years, people have been searching for hard-to-find Bibles on the internet. They often stumble upon the Forum of Bible Agencies International (FOBAI) website and ask for help. Find-A-Bible is inteded to address this growing need. Members share data on available Bibles while FOBAI launched a data-driven website in 2006. The past decades have marked unprecedented growth in the Bible cause.  Scripture is being translated into new languages at record pace, audio Bibles and Gospel films are multiplying in ways never imagined, and the world continues to search for Bible resources in their own languages. In 2013, FOBAI commissioned a rebuild of Find-A-Bible to the Digital Bible Society. With a grant from BibleLeague of Canada, Find-A-Bible continues to grow.  Data has increased 800%. Several completely new data-driven versions have been created. Country and language data is expanding to include missional distribution and translation data.",
+  "symposium_head": "Find-A-Bible Symposium",
+  "symposium_body": "The Forum of Bible Agencies International (FOBAI) is an alliance of more than 30 leading international Bible Agencies and Missions Organizations with a shared vision: working together to maximize the worldwide access and impact of God’s Word. During annual gatherings of the International Bible Forum (FOBAI), friendly people meet to collaborate around Find-A-Bible. Perhaps you would like to join us? Contact us for details, or join us at an upcoming FOBAI annual meeting. Check back here or on the FOBAI website for updates about upcoming dates for the Find-A-Bible Symposium.",
+  "resources_head": "Adding Resources",
+  "resources_body": "Know of a Bible that needs to be in this directory? We would sure like to hear about it.  Does your organization have multi-language Bible resources that should be listed here? Let us know!",
+
+  "contact_title": "Contact",
+  "about_title": "About",
+  "about_description": "The Worldwide Directory of Bibles in every Language.",
+
+  "feedback_title": "Feedback",
+  "privacy_title": "Privacy"
+
+}

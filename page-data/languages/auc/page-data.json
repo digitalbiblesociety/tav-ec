@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-jsx",
+    "path": "/languages/auc/",
+    "result": {"pageContext":{"language":{"iso":"auc","name":"Waorani","autonym":"Huaorani","country_id":"EC"},"bibles":[{"id":"AUCWBT","title":"Waorani New Testament","title_vernacular":"Wængonguï nänö Apæ̈negaïnö","date":"2009","iso":"auc","language":"Waorani","countries":null,"links":35}],"resources":[{"iso":"auc","type":"audio","cover":"","title":"Audio Visual Buenas Nuevas [Good News]","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/38031","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"auc","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/13441","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[]}},
+    "staticQueryHashes": []}

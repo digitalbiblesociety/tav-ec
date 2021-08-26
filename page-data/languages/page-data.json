@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-all-jsx",
+    "path": "/languages/",
+    "result": {"pageContext":{"languages":[{"iso":"acu","name":"Achuar-Shiwiar","autonym":"Shiwiar","country_id":"EC"},{"iso":"auc","name":"Waorani","autonym":"Huaorani","country_id":"EC"},{"iso":"cbi","name":"Chachi","autonym":null,"country_id":"EC"},{"iso":"cof","name":"Colorado","autonym":"Colorado","country_id":"EC"},{"iso":"con","name":"Cofán","autonym":"A'ingae","country_id":"EC"},{"iso":"jiv","name":"Shuar","autonym":"Šiwar čičam","country_id":"EC"},{"iso":"qvz","name":"Northern Pastaza Quichua","autonym":"Kichwa Shimi","country_id":"EC"},{"iso":"qxl","name":"Salasaca Highland Quichua","autonym":"Kichwa Shimi","country_id":"EC"},{"iso":"sey","name":"Secoya","autonym":"Paikoka","country_id":"EC"}]}},
+    "staticQueryHashes": []}

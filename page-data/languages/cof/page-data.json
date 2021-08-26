@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-jsx",
+    "path": "/languages/cof/",
+    "result": {"pageContext":{"language":{"iso":"cof","name":"Colorado","autonym":"Colorado","country_id":"EC"},"bibles":[{"id":"COFWBT","title":"Colorado New Testament","title_vernacular":"Diosichi Pila","date":"2012","iso":"cof","language":"Colorado","countries":null,"links":39}],"resources":[{"iso":"cof","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/15420","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[]}},
+    "staticQueryHashes": []}
