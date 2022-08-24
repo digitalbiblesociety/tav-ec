@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="msapplication-TileColor" content="#ffffff" />
+		<meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="content-security-policy" content="">
+	<link rel="modulepreload" href="/_app/immutable/start-2c0e925f.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-8106616c.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/singletons-62adc2b9.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-3e7015d2.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-fb233e95.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/preload-helper-aa6bc0ce.js">
+		<script>
+			if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+				document.documentElement.classList.add('dark');
+			}
+		</script>
+	</head>
+	<body class="text-gray-900 dark:bg-stone-900">
+		<div id="svelte">
+		<script type="module" data-sveltekit-hydrate="45h">
+		import { set_public_env, start } from "/_app/immutable/start-2c0e925f.js";
+
+		set_public_env({});
+
+		start({
+			target: document.querySelector('[data-sveltekit-hydrate="45h"]').parentNode,
+			paths: {"base":"","assets":""},
+			route: true,
+			spa: true,
+			trailing_slash: "never",
+			hydrate: null
+		});
+	</script></div>
+	</body>
+</html>

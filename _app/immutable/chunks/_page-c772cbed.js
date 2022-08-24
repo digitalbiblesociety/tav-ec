@@ -1,0 +1,1 @@
+async function s({fetch:t}){const e=await t("https://cdn.jsdelivr.net/gh/digitalbiblesociety/data//bibles_dbs.json");return e.ok?{bibles:await e.json()}:{status:e.status,error:new Error("Could not load bibles JSON")}}const r=Object.freeze(Object.defineProperty({__proto__:null,load:s},Symbol.toStringTag,{value:"Module"}));export{r as _,s as l};

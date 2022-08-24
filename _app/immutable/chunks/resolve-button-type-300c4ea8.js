@@ -1,0 +1,1 @@
+let r=0;function o(){return++r}function i(){return o()}function f(t,e){var u;if(t.type)return t.type;let n=(u=t.as)!=null?u:"button";if(typeof n=="string"&&n.toLowerCase()==="button"||e&&e instanceof HTMLButtonElement)return"button"}export{f as r,i as u};

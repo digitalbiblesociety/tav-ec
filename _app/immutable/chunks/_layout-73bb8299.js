@@ -1,0 +1,1 @@
+import{l,b as n}from"./index-54c49510.js";const s=async({url:o})=>{const{pathname:t}=o,a="en",e=l.get()||a;return await n(e,t),{}},r=Object.freeze(Object.defineProperty({__proto__:null,load:s},Symbol.toStringTag,{value:"Module"}));export{r as _,s as l};

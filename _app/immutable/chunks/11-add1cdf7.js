@@ -1,0 +1,1 @@
+import{_ as e}from"./_page-a41a99ce.js";import{default as f}from"../components/pages/languages/_iso_/_page.svelte-7752ac77.js";import"./index-8106616c.js";import"./common-68278013.js";import"./index-3e7015d2.js";export{f as component,e as shared};
